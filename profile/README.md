@@ -1,4 +1,4 @@
-![logsy-Header](https://github.com/logsy/.github/blob/9c554bb0b8006fbd72686e99c00d6b2e9f22c474/logsybanner.png)
+![logsy-Header](https://github.com/logsy/.github/blob/027eec9d178a8a79f332c7e291aa49e531f0a3eb/banner-corner.png)
 
 # Logsy Network
 
