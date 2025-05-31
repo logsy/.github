@@ -12,6 +12,7 @@ Wir bei Logsy sind darauf spezialisiert, hochwertige Software und KI-Lösungen z
 ---
 - **Aiko**: Intelligente KI-Lösungen für die Automatisierung von Workflows.
 - **Logsy**: Entwicklung von leistungsstarken Bots für Plattformen wie Discord.
+- [**AzubiLern**](https://azubilern.de): Beruflich durchstarten – mit der Lernplattform für Azubis.
 - Weitere spannende Projekte in Planung – bleib dran!
 
 ### 🌟 Unsere Werte
@@ -46,6 +47,7 @@ Unser Fokus liegt darauf, KI-Systeme zu entwickeln, die über einfache Automatis
 - **10. November 2023**: Beginn der ersten Entwicklungsarbeiten an Logsy Bot.
 - **23. August 2024**: Erhalt des Status einer **Discord-verifizierten App**.
 - **13. Mai 2025**: Start der Entwicklung von **Aiko**, unserer ersten KI-Lösung.
+- **30. Mai 2025**: Beginn des [**AzubiLern**](https://azubilern.de) Projekts für Auszubildene.
 - **In Planung**: Ausbau unseres Portfolios mit weiteren innovativen Projekten und Technologien.
 
 Bleib gespannt auf kommende Projekte und Updates!
