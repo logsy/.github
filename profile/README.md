@@ -1,4 +1,4 @@
-![logsy-Header](https://cdn.reezy.dev/logsy/github-logsy.png)
+![logsy-Header](https://cdn.logsy.de/logsy.png)
 
 # Logsy Network
 
